@@ -1,8 +1,8 @@
 🌟 Bienvenue sur mon profil GitHub ! 🚀
 👨‍💻 Qui suis-je ?
 
-Passionné(e) par l'informatique et le développement logiciel,je suis étudiant(e) en sociologie et développeur en herbe. 
-Je m'intéresse particulièrement aux technologies web et mobiles, et je vise à devenir un(e) expert(e) dans mon domaine. 
+Passionné par l'informatique et le développement logiciel,je suis étudiant en Génie Logiciel. 
+Je m'intéresse particulièrement aux technologies web et mobiles, et je vise à devenir un expert dans mon domaine. 
 Avec une soif constante d'apprentissage, je consacre mes journées (et mes nuits !) à explorer de nouvelles compétences.
 
 🛠️ Langages et outils que j’utilise :
