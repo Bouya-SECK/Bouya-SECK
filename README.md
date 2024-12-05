@@ -13,7 +13,7 @@ Avec une soif constante d'apprentissage, je consacre mes journées (et mes nuits
 
     🌱 Ce que je fais en ce moment :
 
-    🌌 Je travaille à maîtriser Python et C++, tout en approfondissant mes compétences en PHP et JavaScript.
+    🌌 Je travaille à maîtriser Python et JavaScript, tout en approfondissant mes compétences en PHP et C ++.
     🖌️ J’explore également Photoshop pour ajouter une touche créative à mes projets.
     📚 Je suis toujours à la recherche de nouveaux défis, que ce soit des projets personnels ou des collaborations.
 
